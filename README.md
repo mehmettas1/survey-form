@@ -1,2 +1,2 @@
 # proje
-[clik me](https://mehmettas1.github.io/survey-form/)
+[Clik me](https://mehmettas1.github.io/survey-form/)
